@@ -1,6 +1,6 @@
 # 学习Git
 - Git is a version control system
-- Git is free software
+- Git is free software distributed under the GPL
 # 本实例主要是学习Tkinter的案例
 1. 标签Label
 2. 按钮Button
